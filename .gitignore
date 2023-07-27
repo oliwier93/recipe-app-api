@@ -1,3 +1,6 @@
 app/app/__pycache__
 app/core/__pycache__
 app/core/migrations/__pycache__
+app/core/management/__pycache__
+app/core/management/commands/__pycache__
+app/core/tests/__pycache__
