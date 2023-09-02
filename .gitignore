@@ -8,3 +8,4 @@ app/user/__pycache__
 app/user/tests/__pycache__
 app/recipe/__pycache__
 app/recipe/tests/__pycache__
+.env
